@@ -8,14 +8,31 @@ Tecnólogo en Análisis y Desarrollo de Software con más de 2 años de experien
 Durante mi formación, lideré el proyecto final de grado del SENA, dirigiendo un equipo de 5 personas para el desarrollo y presentación exitosa de un aplicativo web. En este rol, demostré mi capacidad para motivar y guiar a mi equipo, además de implementar metodologías Scrum para mejorar la organización y la entrega de resultados.
 
 Soy una persona disciplinada, autodidacta y comprometida, con una filosofía de trabajo centrada en superar las expectativas. Mi principal motivación es contribuir a proyectos de alta calidad, siendo parte activa de la solución y los avances tecnológicos.
-## 🎓Educación
 
-Actualmente, me sigo formando como Ingeniero de Sistemas (5to semestre) y participo activamente en cursos sobre tecnologías emergentes como Desarrollo de Software y Arquitecturas Limpias, Inteligencia Artificial y Ciberseguridad (Cisco y Oracle). Me apasiona el aprendizaje continuo y la innovación que se vive en el desarrollo de software.
 
-## 🛠️Fortalezas y Competencias
+### 🛠️Fortalezas y Competencias
 
 ✔Desarrollo Full Stack (Backend y Frontend).
 ✔Metodologías Ágiles (Scrum).
 ✔Gestión de Bases de Datos y Despliegue de Aplicaciones.
 ✔Liderazgo de Equipos y gestión de proyectos.
 ✔Habilidades Blandas: Autodidacta, disciplina y trabajo en equipo.
+
+## 🎓Educación
+
+Actualmente, me sigo formando como Ingeniero de Sistemas (5to semestre) y participo activamente en cursos sobre tecnologías emergentes como Desarrollo de Software y Arquitecturas Limpias, Inteligencia Artificial y Ciberseguridad (Cisco y Oracle). Me apasiona el aprendizaje continuo y la innovación que se vive en el desarrollo de software.
+
+## Certificaciónes
+Full Stack empresarial con despliegues - DevSeniorCode (2025)
+Inmersion IA + Google Gemini - Alura (2025)
+Spring Framework 6 y Springboot 3 desde cero a experto - Udemy (2025)
+Tecnóloga en Análisis y Desarrollo de Sistemas de Información - SENA (2024)
+
+## Lenguajes de Programación
+
+## Frameworks y Librerías
+## Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
