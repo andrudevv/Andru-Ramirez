@@ -1,4 +1,4 @@
-## Sobre mí
+<h1>## Sobre mí<h1>
 Tecnólogo en Análisis y Desarrollo de Software con más de 2 años de experiencia en el sector, enfocado en el desarrollo de aplicaciones web y la administración de bases de datos. Mi experiencia abarca el desarrollo Full Stack, manejando tanto el Backend como el Frontend, y el despliegue de aplicaciones, lo que me permite crear soluciones tecnológicas integrales.
 
 Durante mi formación, lideré el proyecto final de grado del SENA, dirigiendo un equipo de 5 personas para el desarrollo y presentación exitosa de un aplicativo web. En este rol, demostré mi capacidad para motivar y guiar a mi equipo, además de implementar metodologías Scrum para mejorar la organización y la entrega de resultados.
